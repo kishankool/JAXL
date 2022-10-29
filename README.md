@@ -9,5 +9,4 @@ Your command line will show server has started at port 3000.
 Go to chrome and visit localhost:3000/.
 You are now on the website.
 
-Dependencies
 I have used npm .
